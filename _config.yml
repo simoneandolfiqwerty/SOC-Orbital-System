@@ -1,9 +1,2 @@
 theme: jekyll-theme-cayman
 markdown: kramdown
-plugins:
-  - jekyll-include-cache
-  - jekyll-relative-links
-
-relative_links:
-  enabled: true
-  collections: true
